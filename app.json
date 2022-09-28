@@ -1,0 +1,11 @@
+{
+    "name": "usamablusa",
+    "description": "Testing project for usamabl",
+    "env": {
+        "PASSWORD": {
+            "description": "Trojan-Go PASSWORD",
+            "value": "password"
+        }
+    },
+    "stack": "container"
+}
